@@ -31,12 +31,12 @@ window.PORTFOLIO = {
   player: {
     name: "Nitya",
     handle: "aarav.dev",                       // Short brand / username shown in the top bar
-    avatar: "assets/images/avatar-assets/nitya.jpeg",
+    avatar: "assets/images/nitya.jpeg",
     classTitles: [                             // Typed one after another in the hero
       "Code Wizard 🧙",
       "Full-Stack Apprentice",
       "DSA Grinder",
-  
+
     ],
     intro: "1st-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
     college: "Amrita Vishwa Vidyapeetham",
