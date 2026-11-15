@@ -11,9 +11,9 @@ window.PORTFOLIO = {
 
   /* ---------- 1. SITE SETTINGS ---------- */
   settings: {
-    siteTitle: "Aarav Mehta — Player One",          // Browser tab title
+    siteTitle: "Nitya Bhutani",          // Browser tab title
     siteDescription: "B.Tech CSE student portfolio — projects, skills and journey.",
-    theme: "synthwave",        // "synthwave" | "matrix" | "sunset" | "ocean"
+    theme: "ocean",        // "synthwave" | "matrix" | "sunset" | "ocean"
     bootScreen: true,          // Show the "press start" intro screen
     customCursor: true,        // Neon cursor on desktop
     soundDefault: false,       // Start with retro sounds ON or OFF
@@ -29,7 +29,7 @@ window.PORTFOLIO = {
 
   /* ---------- 2. PLAYER (YOU) ---------- */
   player: {
-    name: "Aarav Mehta",
+    name: "Nitya",
     handle: "aarav.dev",                       // Short brand / username shown in the top bar
     avatar: "assets/images/avatar-sample.svg",
     classTitles: [                             // Typed one after another in the hero
@@ -44,13 +44,13 @@ window.PORTFOLIO = {
     year: 2,                                   // Current year of study (1–4) → shown as LV
     semester: 4,                               // Current semester (1–8) → XP bar
     totalSemesters: 8,
-    cgpa: "8.72",
-    batch: "2024 – 2028",
-    location: "Pune, India",
+    cgpa: "9.5",
+    batch: "2026 – 2030",
+    location: "Haridwar, India",
     status: "Open to internships & hackathon teams",
     statusOnline: true,                        // Green dot (true) / amber dot (false)
     resume: "assets/resume.pdf",               // Put your PDF inside /assets
-    email: "aarav.mehta@example.com",
+    email: "nityabhutani22@gmail.com",
     attributes: [                              // RPG stats (0–100) on the character card
       { label: "Logic", value: 82 },
       { label: "Creativity", value: 90 },
@@ -59,7 +59,7 @@ window.PORTFOLIO = {
       { label: "Caffeine", value: 99 }
     ],
     lore: [                                    // Fun facts shown as chips
-      "☕ 3 chai/day minimum",
+      "☕ 3 coffee/day minimum",
       "🌙 Night-owl coder",
       "🎮 Speedrunner at heart",
       "🏏 Weekend cricketer",
