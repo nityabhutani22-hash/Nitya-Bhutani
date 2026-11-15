@@ -13,7 +13,7 @@ window.PORTFOLIO = {
   settings: {
     siteTitle: "Nitya Bhutani",          // Browser tab title
     siteDescription: "B.Tech CSE student portfolio — projects, skills and journey.",
-    theme: "ocean",        // "synthwave" | "matrix" | "sunset" | "ocean"
+    theme: "sunset",        // "synthwave" | "matrix" | "sunset" | "ocean"
     bootScreen: true,          // Show the "press start" intro screen
     customCursor: true,        // Neon cursor on desktop
     soundDefault: false,       // Start with retro sounds ON or OFF
@@ -36,10 +36,10 @@ window.PORTFOLIO = {
       "Code Wizard 🧙",
       "Full-Stack Apprentice",
       "DSA Grinder",
-      "Hackathon Rookie"
+  
     ],
-    intro: "2nd-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
-    college: "ABC Institute of Technology",
+    intro: "1st-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
+    college: "Amrita Vishwa Vidyapeetham",
     branch: "B.Tech — Computer Science & Engg.",
     year: 2,                                   // Current year of study (1–4) → shown as LV
     semester: 4,                               // Current semester (1–8) → XP bar
@@ -59,10 +59,10 @@ window.PORTFOLIO = {
       { label: "Caffeine", value: 99 }
     ],
     lore: [                                    // Fun facts shown as chips
-      "☕ 3 coffee/day minimum",
+      " Surriving on COLD COFFEE",
       "🌙 Night-owl coder",
-      "🎮 Speedrunner at heart",
-      "🏏 Weekend cricketer",
+      "🎵 Music Listener",
+      "🗻 Mountain Lover",
       "📚 Reads sci-fi"
     ]
   },
